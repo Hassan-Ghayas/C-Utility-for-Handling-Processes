@@ -1,0 +1,15 @@
+E:\DM TASK\DataManagementQA\DataManagementQA\bin\Release\net6.0\Moniter.exe
+E:\DM TASK\DataManagementQA\DataManagementQA\bin\Release\net6.0\Moniter.deps.json
+E:\DM TASK\DataManagementQA\DataManagementQA\bin\Release\net6.0\Moniter.runtimeconfig.json
+E:\DM TASK\DataManagementQA\DataManagementQA\bin\Release\net6.0\Moniter.dll
+E:\DM TASK\DataManagementQA\DataManagementQA\bin\Release\net6.0\Moniter.pdb
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Release\net6.0\Moniter.csproj.AssemblyReference.cache
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Release\net6.0\Moniter.GeneratedMSBuildEditorConfig.editorconfig
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Release\net6.0\Moniter.AssemblyInfoInputs.cache
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Release\net6.0\Moniter.AssemblyInfo.cs
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Release\net6.0\Moniter.csproj.CoreCompileInputs.cache
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Release\net6.0\Moniter.dll
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Release\net6.0\refint\Moniter.dll
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Release\net6.0\Moniter.pdb
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Release\net6.0\Moniter.genruntimeconfig.cache
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Release\net6.0\ref\Moniter.dll

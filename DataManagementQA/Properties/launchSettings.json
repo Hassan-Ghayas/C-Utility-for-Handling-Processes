@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataManagementQA": {
+      "commandName": "Project",
+      "commandLineArgs": "notepad\r\n2\r\n1"
+    }
+  }
+}

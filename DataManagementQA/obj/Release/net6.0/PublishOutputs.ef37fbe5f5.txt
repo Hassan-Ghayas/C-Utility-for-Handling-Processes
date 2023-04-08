@@ -1,0 +1,5 @@
+E:\DM QA app\Moniter.exe
+E:\DM QA app\Moniter.dll
+E:\DM QA app\Moniter.deps.json
+E:\DM QA app\Moniter.runtimeconfig.json
+E:\DM QA app\Moniter.pdb

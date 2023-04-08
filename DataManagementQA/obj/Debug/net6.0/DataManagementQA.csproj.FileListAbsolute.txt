@@ -1,0 +1,15 @@
+E:\DM TASK\DataManagementQA\DataManagementQA\bin\Debug\net6.0\DataManagementQA.exe
+E:\DM TASK\DataManagementQA\DataManagementQA\bin\Debug\net6.0\DataManagementQA.deps.json
+E:\DM TASK\DataManagementQA\DataManagementQA\bin\Debug\net6.0\DataManagementQA.runtimeconfig.json
+E:\DM TASK\DataManagementQA\DataManagementQA\bin\Debug\net6.0\DataManagementQA.dll
+E:\DM TASK\DataManagementQA\DataManagementQA\bin\Debug\net6.0\DataManagementQA.pdb
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Debug\net6.0\DataManagementQA.csproj.AssemblyReference.cache
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Debug\net6.0\DataManagementQA.GeneratedMSBuildEditorConfig.editorconfig
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Debug\net6.0\DataManagementQA.AssemblyInfoInputs.cache
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Debug\net6.0\DataManagementQA.AssemblyInfo.cs
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Debug\net6.0\DataManagementQA.csproj.CoreCompileInputs.cache
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Debug\net6.0\DataManagementQA.dll
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Debug\net6.0\refint\DataManagementQA.dll
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Debug\net6.0\DataManagementQA.pdb
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Debug\net6.0\DataManagementQA.genruntimeconfig.cache
+E:\DM TASK\DataManagementQA\DataManagementQA\obj\Debug\net6.0\ref\DataManagementQA.dll
